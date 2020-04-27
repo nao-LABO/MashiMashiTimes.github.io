@@ -1,0 +1,124 @@
+header {
+  height: 200px;
+  width: 100%;
+  background-color: rgba(255,255,255,0.7);
+}
+
+.logo{
+  float:left;
+  height:180px;
+  width:700px;
+}
+
+.header-right {
+  float: right;
+  transition: all 0.5s;
+}
+
+.header-right:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  display: block;
+}
+
+body{
+  background-image:url("ましましタイムズトップ画.jpg");
+  background-size:cover;
+  padding-right: 30px;
+}
+
+a:hover{
+  background-color: #FF9966;
+}
+
+h1{
+  color:white;
+  font-size:100px;
+  white-space:nowrap;
+  text-align: center;
+}
+
+.osa{
+  background-color: darkturquoise;
+}
+
+.take{
+  background-color: gold;
+}
+
+.nao{
+  background-color: mediumseagreen;
+}
+
+h2{
+  color:white;
+  font-size: 30px;
+}
+
+h3{
+  font-size: 30px;
+  border-bottom: 5px solid white;
+  width:500px;
+  margin-left:650px;
+}
+
+p{
+  color:white;
+  text-align: center;
+}
+
+li{
+  color:white;
+  background-color:rgba(105,105,105,0.7);
+}
+.member{
+  float:left;
+  text-align: center;
+  padding-right: 30px;
+  padding-left: 120px;
+}
+
+.btn-wrapper{
+  text-align: center;
+}
+.signup {
+  background-color: #239b76;
+  margin-bottom:10px;
+  margin-right: 50px
+}
+.facebook {
+  background-color: #3b5998;
+  margin-right: 50px;
+}
+
+.twitter {
+  margin-right:50px;
+  background-color: #55acee;
+}
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.heading {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: white;
+    text-align:center;
+}
+
+.topgazou{
+  border-radius:200px 200px 200px 200px;
+  width: :100px;
+  height:400px;
+  margin:auto;
+}
