@@ -1,3 +1,19 @@
+@media(max-width:1000px){
+  header{
+    width:1160px;
+    background-size:cover;
+  }
+  body{
+    background:#ddd url(image.jpg) no-repeat center center;
+    background-size: auto 300px;
+  }
+  h1{
+    font-family: 'Impact';
+  }
+}
+
+
+
 header {
   height: 200px;
   width: 100%;
