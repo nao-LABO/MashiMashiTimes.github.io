@@ -25,7 +25,7 @@
 
   btn-wrapper{
     display: block;
-    margin-top: 0px;
+    margin-top:10px;
   }
   p{
     white-space:nowrap;
@@ -35,9 +35,6 @@
   }
   h3{
     padding-left:30px;
-  }
-  bottom-wrapper{
-    background-color: rgba(0,0,0,1);
   }
   .member{
     margin-top: 100px;
