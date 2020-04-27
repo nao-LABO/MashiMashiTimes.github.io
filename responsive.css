@@ -1,0 +1,48 @@
+@media(max-width:1000px){
+  *{
+    box-sizing:border-box;
+  }
+
+  header{
+    width:1150px;
+  }
+  body{
+    background-image: url("ましましタイムズトップ画.jpg");
+    background-size:auto;
+    background-repeat: no-repeat;
+    background-position:absolute;
+  }
+  .container{
+    text-align: center;
+  }
+
+  h1{
+    font-family: 'Impact';
+    font-size:70px;
+    text-align: center;
+    padding-top:15px;
+  }
+
+  btn-wrapper{
+    display: block;
+    margin-top: 0px;
+  }
+  p{
+    white-space:nowrap;
+  }
+  li{
+    white-space:nowrap;
+  }
+  h3{
+    padding-left:30px;
+  }
+  bottom-wrapper{
+    background-color: rgba(0,0,0,1);
+  }
+  .member{
+    margin-top: 100px;
+  }
+  .btn-wrapper{
+    padding-top: 30px;
+  }
+}
