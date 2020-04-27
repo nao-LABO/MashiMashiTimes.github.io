@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" content="width=device-width",initial-scale=1.0>
+    <link rel="stylesheet" href="お問い合わせ.css">
+    <script type="text/javascript" charset="UTF-8"></script>
+    <title>お問い合わせページ</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="header-left">
+          <img class="logo" src="1587104947220.png">
+        </div>
+        <div class="header-right">
+          <a href="index.html">トップページ</a>
+          <a href="member-introduction.html">おさとう紹介ページ</a>
+          <a href="member-introduction2.html">たけちゃん紹介ページ</a>
+          <a href="member-introduction3.html">なお紹介ページ</a>
+        </div>
+      </div>
+    </header>
+    <div class="top-wrapper">
+      <div class="container">
+        <h1>お問い合わせ</h1>
+        <form action="./mailConfirm.php" method="post">
+
+        </form>
+        <p>名前(法人名・団体名・ペンネームでも可能です。)</p>
+        <input type="text" name="name">
+        <p>返信先メールアドレス</p>
+        <input type="text" name="email">
+        <p>お問い合わせの種類</p>
+          <select name="title">
+            <option value="未選択">選択してください</option>
+            <option value="Work">お仕事の依頼</option>
+            <option value="Douga">動画の企画に関するご要望</option>
+            <option value="Syukatu">就活のご相談</option>
+            <option value="Sonota">その他</option>
+          </select>
+        <p>ご相談内容</p>
+        <textarea name="content"></textarea>
+        <div>
+          <input type="submit" name="send" value="送信" class="sousin">
+          <p>※まだ本機能は実装されておりません。（後日実装予定）</p>
+        </div>
+      </div>
+    </div>
+  </body>
+  <footer>
+    <div class="footer">
+      <img class="logo" src="1587104947220.png">
+      <div class="footer-left">
+        <h5>おもしろさ、ましまししようぜ</h5>
+      </div>
+    </div>
+  </footer>
+</html>
