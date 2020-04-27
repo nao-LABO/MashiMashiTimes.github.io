@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" content="width=device-width",initial-scale=1.0>
+    <link rel="stylesheet" href="member-introduction2.css">
+    <title>メンバー紹介ページ たけちゃん</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+          <div class="header-left">
+            <img class="logo" src="1587104947220.png">
+          </div>
+          <div class="header-right">
+            <a href="index.html">トップページ</a>
+            <a href="member-introduction.html">おさとう紹介ページ</a>
+            <a href="member-introduction3.html">なお紹介ページ</a>
+          </div>
+      </div>
+    </header>
+    <div class="top-wrapper">
+      <div class="container">
+        <h1>『舞うは笑い、奏でるは災禍の調べ』</h1>
+        <h2><span class="osaosa">たけちゃん</span>とは…</h2>
+        <p>通称：”おもしろの神に愛された漢”。</p>
+        <p>ドラマが好き。"エンタメは世界を救う。だからこそ人の希望になるようなドラマを作っていきたい"という熱い情熱がある。保身の為に嘘をつく。</p>
+        <p>ドアノブがトマト。</p>
+      </div>
+      <div class="bottom-wrapper">
+        <h4>スキル</h4>
+        <p>
+        <img class="osatou" src="syunto1.jpg" style="float:left;">
+            <li>・シナリオ作成</li>
+            <li>・ドラマ作成</li>
+            <li>・カメラ</li>
+            <li>・腕立て　　　　　</li>
+            <li>・懸垂　　　　　　</li>
+            <li>・大食い　　　　　</li>
+            <li>・激辛好き　　　　</li>
+            <li>・他言語物真似</li>
+            <h3>前歴</h3>
+            <li>・学生時代、特に悪いことをしていないのにしばしば怒られる。</li>
+            <li>・夏になるとカナブンが顔に突撃してくる。</li>
+        </p>
+      </div>
+    </div>
+  </body>
+  <footer>
+    <div class="footer">
+      <img class="logo" src="1587104947220.png">
+      <div class="footer-left">
+        <h5>おもしろさ、ましまししようぜ</h5>
+      </div>
+    </div>
+  </footer>
+</html>
