@@ -1,0 +1,105 @@
+header{
+  display: inline-block;
+  padding-bottom: 30px;
+  background-color:rgba(0,0,0,0.8);
+  width:1776px;
+}
+
+.logo{
+  width:400px;
+  height:100px;
+}
+
+.top-wrapper{
+  height:1000px;
+  background-image:url("syunto2.jpg");
+  background-size:cover;
+  border:20px solid gold;
+}
+
+.header-right{
+  float:right;
+  font-size:20px;
+}
+a{
+  padding:0 0 50px 30px;
+  color:white;
+}
+
+h1{
+  color:yellow;
+  font-size:80px;
+  background-color:rgb(255,255,255,0.3);
+  padding-top:50px;
+  white-space: nowrap
+}
+
+h2{
+  font-size:130px;
+  color:white;
+}
+
+p{
+  display:block;
+  color: black;
+  font-size:30px;
+  background-color:rgb(255,255,255,0.6);
+  width:560px;
+  line-height:40px;
+}
+
+.osaosa{
+  font-size: 150px;
+  color:yellow;
+  text-shadow: 2px;
+}
+img{
+    width: 500px;
+    height:600px;
+}
+.osatou{
+  border:20px solid gold;
+  margin-bottom:100px;
+}
+
+.bottom-wrapper{
+    display:inline-block;
+    padding-bottom: 50px;
+}
+
+h3{
+  font-size: 70px;
+  text-align: right;
+  padding:0 590px 0 0;
+  border-bottom: 5px solid;
+}
+
+h4{
+  font-size: 70px;
+  text-align: right;
+  padding:0 550px 0 0;
+  border-bottom: 5px solid;
+}
+
+li{
+  display:inline-block;
+  font-size:22px;
+  padding:0 450px 0 50px;
+
+}
+footer{
+  padding-top: 1100px;
+  background-color:moccasin;
+}
+
+.footer-left{
+  font-size: 20px;
+  padding-left:80px;
+  margin-bottom:60px;
+}
+
+.footer{
+  background-color:rgba(0,0,0,0.8);
+  width:1776px;
+  color:white;
+}
